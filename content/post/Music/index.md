@@ -9,7 +9,6 @@ hidden: false
 comments: true
 draft: false
 ---
-這兩首都是神曲，不接受反駁！
 
 {{< youtube zbWEZDA3xZc >}}
 
