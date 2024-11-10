@@ -9,7 +9,8 @@ hidden: false
 comments: true
 draft: false
 ---
-
+Henceforth / 結城さくな(Cover)  
 {{< youtube zbWEZDA3xZc >}}
 
+僕らの星座/白上フブキ(FBKINGDOM国歌)  
 {{< youtube ppKPaPKlQ3Q >}}
