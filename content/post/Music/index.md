@@ -9,5 +9,8 @@ hidden: false
 comments: true
 draft: false
 ---
-Henceforth / 結城さくな(Cover)  
+這兩首都是神曲，不接受反駁！
+
 {{< youtube zbWEZDA3xZc >}}
+
+{{< youtube ppKPaPKlQ3Q >}}
